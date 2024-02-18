@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "rust-analyzer.linkedProjects": [
+        "./examples/example_1_29/Cargo.toml",
+        "./examples/example_30/Cargo.toml",
+        "./examples/example_31/Cargo.toml",
+        "./examples/example_32_39/Cargo.toml",
+    ],
+}
